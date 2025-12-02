@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Dynamite",
+  "base_artist": "BTS",
+  "createdAt": "2025-12-02T12:47:24.955105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dynamite!",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/01_Dynamite!_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Southern Hospitality (Remix) (feat. Ms. Dynamite & Maxwell D)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/02_Southern_Hospitality_(Remix)_(feat._Ms._Dynamite_&_Maxwell_D)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Feel Like Dynamite",
+      "artist": "King Floyd",
+      "has_synced": false,
+      "path": "select/03_I_Feel_Like_Dynamite_King_Floyd.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Feel Like Dynamite",
+      "artist": "King Floyd",
+      "has_synced": true,
+      "path": "select/04_I_Feel_Like_Dynamite_King_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Homemade Dynamite",
+      "artist": "Lorde",
+      "has_synced": true,
+      "path": "select/05_Homemade_Dynamite_Lorde.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fire (Feat. Ms. Dynamite)",
+      "artist": "Magnetic Man",
+      "has_synced": false,
+      "path": "select/06_Fire_(Feat._Ms._Dynamite)_Magnetic_Man.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweat [feat. Laidback Luke & Ms. Dynamite]",
+      "artist": "Major Lazer, Ms. Dynamite & Laidback Luke",
+      "has_synced": true,
+      "path": "select/07_Sweat_[feat._Laidback_Luke_&_Ms._Dynamite]_Major_Lazer,_Ms._Dynamite_&_Laidback_Luke.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Whistle Song (feat. Dynamite MC)",
+      "artist": "Netsky",
+      "has_synced": true,
+      "path": "select/08_The_Whistle_Song_(feat._Dynamite_MC)_Netsky.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "She's Dynamite",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/09_She's_Dynamite_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dynamite",
+      "artist": "Jamiroquai",
+      "has_synced": false,
+      "path": "select/10_Dynamite_Jamiroquai.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Money no Love (feat. Elliphant & Ms. Dynamite)",
+      "artist": "David Guetta feat. Showtek, Elliphant & Ms. Dynamite",
+      "has_synced": true,
+      "path": "select/11_No_Money_no_Love_(feat._Elliphant_&_Ms._Dynamite)_David_Guetta_feat._Showtek,_Elliphant_&_Ms._Dynamite.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Money no Love (feat. Elliphant & Ms. Dynamite)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/12_No_Money_no_Love_(feat._Elliphant_&_Ms._Dynamite)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dynamite",
+      "artist": "Audio Bullys",
+      "has_synced": true,
+      "path": "select/13_Dynamite_Audio_Bullys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dynamite Soul",
+      "artist": "Artifacts",
+      "has_synced": true,
+      "path": "select/14_Dynamite_Soul_Artifacts.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dynamite",
+      "artist": "Boys Noize feat. Benga",
+      "has_synced": false,
+      "path": "select/15_Dynamite_Boys_Noize_feat._Benga.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dynamite",
+      "artist": "Boys Noize",
+      "has_synced": false,
+      "path": "select/16_Dynamite_Boys_Noize.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Seven Sticks of Dynamite",
+      "artist": "AWOLNATION",
+      "has_synced": true,
+      "path": "select/17_Seven_Sticks_of_Dynamite_AWOLNATION.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Appetite (For Lightin' Dynamite)",
+      "artist": "Citizen Cope",
+      "has_synced": true,
+      "path": "select/18_Appetite_(For_Lightin'_Dynamite)_Citizen_Cope.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dynamite",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/pl_01_Dynamite_BTS.txt"
+    }
+  ]
+}
